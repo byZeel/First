@@ -1,7 +1,7 @@
 import numpy as np # type: ignore
 
 # print(np.__version__)
-# 2.4.2
+
 
 # a=[1,2,3]
 # b=a*2
