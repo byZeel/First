@@ -1,6 +1,6 @@
 import numpy as np
 
-# ! filtering = Refers to the process of selecting elements
+#  filtering = Refers to the process of selecting elements
 # !            from an array that match a given condition
 
 ages = np.array([[21, 17, 19, 20, 16, 30, 18, 65],
