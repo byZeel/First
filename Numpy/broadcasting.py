@@ -1,5 +1,5 @@
 import numpy as np
-
+# broadcast
 #! Broadcasting allows Numpy to perform operation on arrays
 #! With different shape by virtually expanding dimensions
 #! so thet match the larger array's shape
